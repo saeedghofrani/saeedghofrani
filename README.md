@@ -11,12 +11,6 @@ Skills: Node.js/ JS / HTML / CSS /
 - 👯 I’m looking to collaborate on Node.js 
 - 📫 How to reach me: sa.ghofraniivari@gmail.com 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saeedghofrani&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?saeedghofrani=https://github.com/saeedghofrani)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?saeedghofrani=https://github.com/saeedghofrani&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?saeedghofrani=https://github.com/saeedghofrani)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/saeedghofrani)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saeedghofrani&theme=radical&exclude_repo=github-readme-stats,saeedghofrani.github.io)](https://github.com/saeedghofrani/github-readme-stats)
