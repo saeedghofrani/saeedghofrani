@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Saeed
 #### I am Backend developer
-![I am Backend developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 A developer, focus on back-end programming.
 hardworking, diligent, and dedicated. I put
@@ -13,11 +12,11 @@ Skills: Node.js/ JS / HTML / CSS /
 - 📫 How to reach me: sa.ghofraniivari@gmail.com 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/saeedghofrani)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?saeedghofrani=https://github.com/saeedghofrani)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/saeedghofrani&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?saeedghofrani=https://github.com/saeedghofrani&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/saeedghofrani)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?saeedghofrani=https://github.com/saeedghofrani)  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/saeedghofrani)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
