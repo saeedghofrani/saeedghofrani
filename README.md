@@ -7,9 +7,9 @@ teamwork as the first priority.
 
 Skills: Node.js/ JS / HTML / CSS /
 
-- 🌱 I’m currently learning Node.js 
-- 👯 I’m looking to collaborate on Node.js 
-- 📫 How to reach me: sa.ghofraniivari@gmail.com 
+- :monocle_face: I’m currently learning Node.js 
+- :handshake: I’m looking to collaborate on Node.js 
+- :email: How to reach me: sa.ghofraniivari@gmail.com 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saeedghofrani&show_icons=true&theme=radical)
 
