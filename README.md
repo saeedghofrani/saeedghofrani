@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="styles.css">
+ <link href="style.css" rel="stylesheet"></link>
 
    <p align="center">
    <div class="glitch-wrapper">
