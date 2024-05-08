@@ -1,4 +1,4 @@
-
+<style>
    .github-stat {
       flex-basis: 45%;
       margin-bottom: 20px;
@@ -230,3 +230,4 @@
          clip: rect(67px, 9999px, 122px, 0);
       }
    }
+</style>
