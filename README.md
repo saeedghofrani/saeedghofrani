@@ -1,5 +1,5 @@
- <link href="style.css" rel="stylesheet"></link>
-
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
    <p align="center">
    <div class="glitch-wrapper">
       <div class="glitch" data-glitch="Saeed Ghofrani">Saeed Ghofrani</div>
@@ -157,4 +157,5 @@ Hey there! I'm a passionate developer with a background in C#, ASP.NET, Node.js,
 
 </span>
 
-
+  </foreignObject>
+</svg>
