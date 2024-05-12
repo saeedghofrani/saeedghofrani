@@ -1,6 +1,7 @@
-<svg fill="none" viewBox="0 0 600 400" width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-  <div xmlns="http://www.w3.org/1999/xhtml">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
 <style>
    .github-stat {
       flex-basis: 45%;
@@ -390,6 +391,4 @@ Hey there! I'm a passionate developer with a background in C#, ASP.NET, Node.js,
 </span>
 </div>
 
-  </div>
-  </foreignObject>
-</svg>
+
