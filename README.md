@@ -1,9 +1,8 @@
+   <p>
+         <a href="https://github.com/"><img width="100%"title="Saeed Ghofrani Ivari" src="./banner/7.svg"></a>
+   <p>
+
 <div>
-   <p align="center">
-   <div class="glitch-wrapper">
-      <div class="glitch" data-glitch="Saeed Ghofrani">Saeed Ghofrani</div>
-   </div>
-   </p>
    <p align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Handlee&size=25&pause=1000&color=2C27F7&center=true&vCenter=true&random=false&width=435&lines=Backend%2FDev+Ops+Developer;Over+3+years+of+experience;Always+Learning+New+Things"></a>
    </p>
@@ -29,10 +28,6 @@
 ---
 
 Hey there! I'm a passionate developer with a background in C#, ASP.NET, Node.js, Angular and Nest.js and a strong desire to become a well-rounded full-stack developer. I'm currently diving into the exciting worlds of Go, Vue.js, Angular, React, and ASP.NET. Beyond coding, I'm fascinated by data science and love working with databases, writing complex SQL queries, and analyzing data. When I'm not coding, you'll find me lost in a good movie, jamming to music, or conquering video game challenges. I'm always eager to learn new things and collaborate on interesting projects. Let's connect!
-
-   <p>
-         <a href="https://github.com/"><img width="100%"title="Saeed Ghofrani Ivari" src="./banner/4.png"></a>
-   <p>
 
 ## Technical Skills And Favorite Tools 🛠️
 
@@ -86,72 +81,43 @@ Hey there! I'm a passionate developer with a background in C#, ASP.NET, Node.js,
          <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Typescript" alt="Typescript" src="./databases/icons8-sqlite.svg"></a>
    </p>
 
-   <h3>💻 Software and Tools</h3>
-
-   <p>
-         <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-         <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-         <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-         <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
-         <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
-         <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
-         <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-         <a href="#"><img alt="Construct 3" src="https://img.shields.io/badge/Construct%203-00b56a.svg?logo=construct-3&logoColor=white"></a>
-         <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
-         <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"></a>
-         <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-         <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-         <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-         <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-         <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
-         <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-         <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
-         <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
-         <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-         <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
-         <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-         <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-   </p>
 
 ## My GitHub Stats 📊
 
 ---
 
-   <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div align="center">
 
-   <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=saeedghofrani&show_icons=true&theme=radical" alt="Saeed's GitHub Stats" height="200"/>
+    </div>
+    <div>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=saeedghofrani&theme=radical" alt="Saeed's GitHub Streak" height="200"/>
+    </div>
+  </div>
 
-   <div class="github-stat">
-      <img src="https://github-readme-stats.vercel.app/api?username=saeedghofrani&show_icons=true&theme=radical" alt="Aditya's github stats">
-   </div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 10px;">
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedghofrani&langs_count=8&theme=radical&layout=compact" alt="Top Languages" height="200"/>
+    </div>
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=saeedghofrani&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical" alt="GitHub Stars" height="200"/>
+    </div>
+  </div>
 
-   <div class="github-stat">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=saeedghofrani&theme=radical" alt="Aditya GitHub Streak">
-   </div>
-
-   <div class="github-stat">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedghofrani&langs_count=8&theme=radical&layout=compact" alt="Top Langs">
-   </div>
-
-   <div class="github-stat">
-      <img src="https://github-readme-stats.vercel.app/api?username=saeedghofrani&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical" alt="Github Stars">
-   </div>
-
-   </div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saeedghofrani&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-   </div>
-
-   <!-- <div class="github-stat">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@saeedghofrani" alt="Harlok's WakaTime stats">
-      </div> -->
+</div>
 
 ---
 
-<span align="center">
-<a>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saeedghofrani&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+</div>
+
+---
+
+<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=saeedghofrani&theme=onedark&row=1&column=10&margin-h=50)](https://github.com/ryo-ma/github-profile-trophy)
-</a>
 
-</span>
 </div>
