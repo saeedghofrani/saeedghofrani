@@ -88,23 +88,16 @@ Hey there! I'm a passionate developer with a background in C#, ASP.NET, Node.js,
 
 <div align="center">
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=saeedghofrani&show_icons=true&theme=radical" alt="Saeed's GitHub Stats" height="200"/>
-    </div>
-    <div>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=saeedghofrani&theme=radical" alt="Saeed's GitHub Streak" height="200"/>
-    </div>
-  </div>
-
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 10px;">
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedghofrani&langs_count=8&theme=radical&layout=compact" alt="Top Languages" height="200"/>
-    </div>
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=saeedghofrani&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical" alt="GitHub Stars" height="200"/>
-    </div>
-  </div>
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=saeedghofrani&show_icons=true&theme=radical" alt="Saeed's GitHub Stats" height="200" width="100%"/></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=saeedghofrani&theme=radical" alt="Saeed's GitHub Streak" height="200" width="100%"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedghofrani&langs_count=8&theme=radical&layout=compact" alt="Top Languages" height="200" width="100%"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=saeedghofrani&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical" alt="GitHub Stars" width="100%" height="200"/></td>
+    </tr>
+  </table>
 
 </div>
 
