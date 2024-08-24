@@ -81,7 +81,6 @@ Hey there! I'm a passionate developer with a background in C#, ASP.NET, Node.js,
          <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Typescript" alt="Typescript" src="./databases/icons8-sqlite.svg"></a>
    </p>
 
-
 ## My GitHub Stats 📊
 
 ---
