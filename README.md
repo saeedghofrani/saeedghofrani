@@ -14,7 +14,7 @@
    &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://t.me/SaeedGhofraniIvari"><img width="50px" alt="Dev.to" title="DenverCoder1 Dev.to" src="./social/icons8-telegram.svg" style="filter: hue-rotate(210deg);"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://saeedghofrani.com/"><img width="45px" alt="Ko-fi" title="Buy me a coffee" src="./social/website-generic-svgrepo-com.svg" style="filter: hue-rotate(210deg);"/></a>
+   <a href="https://saeedghofrani.xyz/"><img width="45px" alt="Ko-fi" title="Buy me a coffee" src="./social/website-generic-svgrepo-com.svg" style="filter: hue-rotate(210deg);"/></a>
    </p>
 
    <br/>
