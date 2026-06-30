@@ -2,7 +2,7 @@
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
-**Goal:** Build a recruiter-focused GitHub profile README aligned with `saeedghofrani.xyz`.
+**Goal:** Build a creative, open-source-oriented GitHub profile README aligned with `saeedghofrani.xyz`.
 
 **Architecture:** This is a static GitHub profile repository. The implementation updates `README.md` only for user-facing content and adds workflow documentation under `docs/superpowers/`.
 
@@ -15,7 +15,7 @@
 **Files:**
 - Modify: `README.md`
 
-- [x] Replace the old badge-heavy profile with a portfolio-aligned hero, recruiter signal table, capability map, proof map, review paths, core stack, current focus, and cleaned-up GitHub activity.
+- [x] Replace the old badge-heavy profile with a portfolio-aligned hero, builder manifesto, open-source direction, engineering taste, production proof, review paths, core stack, and cleaned-up GitHub activity.
 - [x] Reuse existing local banner, social icons, language icons, framework icons, and database icons.
 - [x] Keep GitHub stats widgets below the main recruiter story.
 

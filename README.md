@@ -1,26 +1,27 @@
 <div align="center">
   <a href="https://saeedghofrani.xyz">
-    <img src="./banner/7.svg" width="100%" alt="Saeed Ghofrani Ivari - Senior Backend Engineer" />
+    <img src="./banner/7.svg" width="100%" alt="Saeed Ghofrani Ivari" />
   </a>
 </div>
 
 <h1 align="center">Saeed Ghofrani Ivari</h1>
 
-<h3 align="center">Senior Backend Engineer and Engineering Manager</h3>
+<h3 align="center">Backend engineer, open-source builder, and systems dreamer</h3>
 
 <p align="center">
-  I build backend systems, real-time platforms, and production infrastructure with a focus on reliability, performance, and clear business outcomes.
+  I want to create software that feels inevitable after it exists: clear tools, reliable infrastructure,
+  real-time products, and open-source foundations that help other builders move faster.
 </p>
 
 <p align="center">
   <a href="https://saeedghofrani.xyz"><strong>Portfolio</strong></a>
-  ·
-  <a href="https://saeedghofrani.xyz/#recruiters"><strong>Recruiter Brief</strong></a>
-  ·
-  <a href="https://saeedghofrani.xyz/#case-studies"><strong>Case Studies</strong></a>
-  ·
+  |
   <a href="https://saeedghofrani.xyz/#projects"><strong>Projects</strong></a>
-  ·
+  |
+  <a href="https://saeedghofrani.xyz/#case-studies"><strong>Case Studies</strong></a>
+  |
+  <a href="https://saeedghofrani.xyz/#architecture"><strong>Architecture</strong></a>
+  |
   <a href="https://saeedghofrani.xyz/#contact"><strong>Contact</strong></a>
 </p>
 
@@ -44,46 +45,74 @@
 
 ---
 
-## Recruiter Signal
+## Builder Manifest
 
-| Experience | Leadership | Reliability | Performance | Real-Time Scale |
-| --- | --- | --- | --- | --- |
-| 5+ years | Team of 8 | 99.9% uptime | 40% lower API latency | 500+ concurrent users |
+I do not want my GitHub to look like a resume pasted into Markdown. I want it to feel like a workshop.
 
-I am strongest where product requirements meet production constraints: service boundaries, database design, queue-driven workflows, deployment, observability, and the engineering habits that keep teams shipping without breaking core business behavior.
+This is where I shape backend ideas into tools, systems, patterns, and products. Some projects are production-grade. Some are experiments. Some are small utilities that come from repeatedly feeling the same friction and deciding to remove it.
 
-## What I Build
+The long-term direction is simple:
 
-| Area | What it means in practice |
+- Build open-source tools that make backend development calmer and clearer.
+- Create real-time systems that feel alive without becoming fragile.
+- Turn production lessons into reusable architecture, libraries, and public writing.
+- Keep learning in public, shipping in public, and improving the craft.
+
+## Things I Am Building Toward
+
+| Direction | Why it matters |
 | --- | --- |
-| Backend platforms | NestJS, TypeScript, REST/GraphQL APIs, Prisma, TypeORM, service boundaries, authentication, operator workflows |
-| Real-time systems | WebSockets, Socket.IO, WebRTC, RabbitMQ, event-driven flows, chat, VoIP, video sessions |
-| Data and performance | PostgreSQL, MongoDB, Redis, Neo4j, query optimization, indexing, reporting, persistence design |
-| Infrastructure | Docker, Kubernetes, Nginx, Linux servers, CI/CD, production deployment, uptime ownership |
-| Engineering leadership | Delivery planning, mentoring, PR review, architecture review, technical documentation, hiring collaboration |
+| **Open-source backend tools** | Small, sharp utilities that remove repetitive backend work and improve developer experience. |
+| **Real-time product infrastructure** | Chat, video, live workflows, queues, events, and systems that keep people connected. |
+| **AI-assisted operator systems** | Tools that help support, CRM, and business teams work faster without losing control. |
+| **Database performance craft** | Better schemas, indexes, queries, and data flows for products that need to stay fast as they grow. |
+| **Beautiful engineering documentation** | Architecture notes, tradeoffs, and case studies that make complex systems easier to understand. |
 
-## Proof Map
+## My Engineering Taste
 
-| System | Backend value |
+I like software that has a strong internal shape.
+
+- APIs should feel predictable.
+- Data models should explain the business.
+- Background jobs should be observable.
+- Real-time features should degrade gracefully.
+- Developer tools should be boring to install and satisfying to use.
+- Production code should respect the next engineer who has to debug it at 3 AM.
+
+## Open-Source Lab
+
+These are the kinds of public projects I want more of in this profile:
+
+| Project | Idea |
 | --- | --- |
-| **License Market Backend** | Production NestJS backend for operator workflows, ticketing, real-time AI chat, reporting, and integrations. Maintained 99.9% uptime, reduced API latency by 40%, and supported delivery with a backend team of 8 engineers. |
-| **Mobasher Real-Time Consulting Platform** | Consulting, learning, chat, VoIP, video, Socket.IO, WebRTC, SQL optimization, and backend microservices for 500+ concurrent users. |
-| **Crypto Exchange KYC and Persistence** | Financial backend systems with KYC/AML, exchange integrations, blockchain nodes, and PostgreSQL, MongoDB, Neo4j, Redis, and Elasticsearch. |
-| **Portfolio Platform** | Full-stack personal platform with backend-managed content, case studies, recruiter paths, public pages, admin workflows, and VPS deployment. |
-| **compare-guard** | Safe, chainable comparison helpers for direct values and nullable nested object paths in JavaScript and TypeScript projects. |
-| **Object Creator** | Utility for creating nested JavaScript objects from string paths, with dynamic object structures and reusable object-modeling behavior. |
+| **compare-guard** | Chainable comparison helpers for direct values and nullable nested object paths in JavaScript and TypeScript. |
+| **Object Creator** | A utility for creating nested JavaScript objects from string paths and dynamic structures. |
+| **Backend utilities** | Reusable helpers for validation, object modeling, API behavior, and safer TypeScript workflows. |
+| **Architecture demos** | Small but complete examples of queues, caching, WebSockets, auth, deployment, and observability. |
+| **Performance notes** | Practical experiments around PostgreSQL, Redis, query plans, and API latency. |
 
-## Fast Review Paths
+## Proof From Production
 
-If you are reviewing my work, start here:
+The dream matters, but I also care deeply about shipping real systems that survive real users.
 
-1. **5-minute scan:** [Recruiter brief](https://saeedghofrani.xyz/#recruiters) for role fit, metrics, and contact routes.
-2. **Technical review:** [Architecture](https://saeedghofrani.xyz/#architecture) for system design and backend tradeoffs.
-3. **Evidence review:** [Case studies](https://saeedghofrani.xyz/#case-studies) for constraints, implementation choices, and impact.
-4. **Project review:** [Selected projects](https://saeedghofrani.xyz/#projects) and public GitHub repositories.
-5. **Direct contact:** [Email](mailto:sa.ghofraniivari@gmail.com), [LinkedIn](https://www.linkedin.com/in/saeed-ghofrani-ivari/), or [Telegram](https://t.me/SaeedGhofraniIvari).
+| Signal | Evidence |
+| --- | --- |
+| **5+ years building software** | Backend, full-stack, real-time, database, and infrastructure work across production systems. |
+| **Engineering leadership** | Led and supported a backend team of 8 engineers through planning, review, delivery, and debugging. |
+| **Reliability** | Maintained 99.9% uptime on a production backend platform. |
+| **Performance** | Reduced API latency by 40% through backend and database improvements. |
+| **Real-time scale** | Built and supported real-time systems serving 500+ concurrent users. |
 
-## Core Stack
+## Systems I Have Shipped
+
+| System | What I built or improved |
+| --- | --- |
+| **License Market Backend** | NestJS backend for operator workflows, ticketing, real-time AI chat, reporting, integrations, and production reliability. |
+| **Mobasher Consulting Platform** | Real-time consulting, learning, chat, VoIP, video, Socket.IO, WebRTC, SQL optimization, and backend microservices. |
+| **Crypto Exchange KYC and Persistence** | Financial backend systems with KYC/AML, exchange integrations, blockchain nodes, and multi-database persistence. |
+| **Portfolio Platform** | Public portfolio, recruiter paths, case studies, admin workflows, backend-managed content, and VPS deployment. |
+
+## Stack I Reach For
 
 <p>
   <img width="42" alt="TypeScript" title="TypeScript" src="./lang/icons8-typescript.svg" />
@@ -105,17 +134,20 @@ If you are reviewing my work, start here:
 </p>
 
 **Backend:** Node.js, NestJS, TypeScript, Express.js, REST APIs, GraphQL, Microservices, Prisma, TypeORM<br />
-**Data:** PostgreSQL, MongoDB, Redis, Neo4j, MySQL, SQLite, SQL Server, query optimization<br />
+**Data:** PostgreSQL, MongoDB, Redis, Neo4j, MySQL, SQLite, SQL Server, indexing, query optimization<br />
 **Real-time:** RabbitMQ, WebSockets, Socket.IO, WebRTC, Firebase Realtime Database<br />
 **Infrastructure:** Docker, Kubernetes, Nginx, Linux servers, CI/CD, object storage, VPS operations<br />
-**Frontend:** Angular, React, Next.js, Vue.js, HTML, CSS, JavaScript, ASP.NET Core
+**Frontend when useful:** Angular, React, Next.js, Vue.js, HTML, CSS, JavaScript, ASP.NET Core
 
-## Current Focus
+## Where To Start
 
-- Designing reliable backend systems with clear service boundaries.
-- Improving PostgreSQL/API performance without changing business behavior.
-- Building real-time features that stay maintainable after launch.
-- Turning production experience into architecture notes and public case studies.
+If you are here to understand my work:
+
+1. Visit [saeedghofrani.xyz](https://saeedghofrani.xyz) for the full portfolio.
+2. Read the [case studies](https://saeedghofrani.xyz/#case-studies) for production context.
+3. Review the [projects](https://saeedghofrani.xyz/#projects) for shipped work and experiments.
+4. Check my repositories for open-source utilities and backend experiments.
+5. Reach me through [email](mailto:sa.ghofraniivari@gmail.com), [LinkedIn](https://www.linkedin.com/in/saeed-ghofrani-ivari/), or [Telegram](https://t.me/SaeedGhofraniIvari).
 
 ## GitHub Activity
 
@@ -135,9 +167,9 @@ If you are reviewing my work, start here:
 ---
 
 <p align="center">
-  <strong>Open to backend, platform, real-time systems, and engineering leadership roles.</strong>
+  <strong>Building toward open-source tools, resilient backend systems, and software that deserves to exist.</strong>
   <br />
   <a href="mailto:sa.ghofraniivari@gmail.com">sa.ghofraniivari@gmail.com</a>
-  ·
+  |
   <a href="https://saeedghofrani.xyz">saeedghofrani.xyz</a>
 </p>
