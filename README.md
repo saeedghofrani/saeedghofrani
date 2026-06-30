@@ -9,8 +9,32 @@
 <h3 align="center">Backend engineer, open-source builder, and systems dreamer</h3>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Handlee&size=28&pause=900&color=2C27F7&center=true&vCenter=true&random=false&width=720&lines=Backend+Engineer;Open-Source+Builder;Real-Time+Systems;Developer+Tools;Building+Magnificent+Things" alt="Typing introduction" />
+  </a>
+</p>
+
+<p align="center">
   I want to create software that feels inevitable after it exists: clear tools, reliable infrastructure,
   real-time products, and open-source foundations that help other builders move faster.
+</p>
+
+<p align="center">
+  <a href="mailto:sa.ghofraniivari@gmail.com">
+    <img alt="Email" title="Email" width="54" src="./social/icons8-gmail.svg" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/saeed-ghofrani-ivari/">
+    <img alt="LinkedIn" title="LinkedIn" width="54" src="./social/icons8-linkedin.svg" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/SaeedGhofraniIvari">
+    <img alt="Telegram" title="Telegram" width="54" src="./social/icons8-telegram.svg" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://saeedghofrani.xyz">
+    <img alt="Website" title="Website" width="50" src="./social/website-generic-svgrepo-com.svg" />
+  </a>
 </p>
 
 <p align="center">
@@ -23,24 +47,6 @@
   <a href="https://saeedghofrani.xyz/#architecture"><strong>Architecture</strong></a>
   |
   <a href="https://saeedghofrani.xyz/#contact"><strong>Contact</strong></a>
-</p>
-
-<p align="center">
-  <a href="mailto:sa.ghofraniivari@gmail.com">
-    <img alt="Email" title="Email" width="42" src="./social/icons8-gmail.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/saeed-ghofrani-ivari/">
-    <img alt="LinkedIn" title="LinkedIn" width="42" src="./social/icons8-linkedin.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/SaeedGhofraniIvari">
-    <img alt="Telegram" title="Telegram" width="42" src="./social/icons8-telegram.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://saeedghofrani.xyz">
-    <img alt="Website" title="Website" width="40" src="./social/website-generic-svgrepo-com.svg" />
-  </a>
 </p>
 
 ---
@@ -112,9 +118,56 @@ The dream matters, but I also care deeply about shipping real systems that survi
 | **Crypto Exchange KYC and Persistence** | Financial backend systems with KYC/AML, exchange integrations, blockchain nodes, and multi-database persistence. |
 | **Portfolio Platform** | Public portfolio, recruiter paths, case studies, admin workflows, backend-managed content, and VPS deployment. |
 
-## Stack I Reach For
+## Tools I Reach For
 
+<h3>Languages and Markup</h3>
 <p>
+  <img width="45" alt="Assembly" title="Assembly" src="./lang/icons8-assembly-96.png" />
+  <img width="45" alt="Bash" title="Bash" src="./lang/icons8-bash.svg" />
+  <img width="45" alt="C Sharp" title="C#" src="./lang/icons8-c.svg" />
+  <img width="45" alt="Unity" title="Unity" src="./lang/icons8-unity (1).svg" />
+  <img width="45" alt="CSS" title="CSS" src="./lang/icons8-css.svg" />
+  <img width="45" alt="Go" title="Go" src="./lang/icons8-golang.svg" />
+  <img width="45" alt="HTML" title="HTML" src="./lang/icons8-html.svg" />
+  <img width="45" alt="JavaScript" title="JavaScript" src="./lang/icons8-javascript.svg" />
+  <img width="45" alt="Markdown" title="Markdown" src="./lang/icons8-markdown-100.png" />
+  <img width="45" alt="Node.js" title="Node.js" src="./lang/icons8-node-js.svg" />
+  <img width="45" alt="SQL" title="SQL" src="./lang/icons8-sql-100.png" />
+  <img width="45" alt="TypeScript" title="TypeScript" src="./lang/icons8-typescript.svg" />
+</p>
+
+<h3>Frameworks, Libraries, and Product Surfaces</h3>
+<p>
+  <img width="45" alt="ASP.NET Core" title="ASP.NET Core" src="./lang/Bitmap-MEDIUM_ASP.NET-Core-MVC-Logo_2colors_Square_Boxed_RGB.png" />
+  <img width="45" alt="NestJS" title="NestJS" src="./framwork/icons8-nestjs.svg" />
+  <img width="45" alt="Angular" title="Angular" src="./framwork/icons8-angular.svg" />
+  <img width="45" alt="React" title="React" src="./framwork/icons8-react.svg" />
+  <img width="45" alt="Bootstrap" title="Bootstrap" src="./framwork/icons8-bootstrap.svg" />
+  <img width="45" alt="jQuery" title="jQuery" src="./framwork/icons8-jquery.svg" />
+  <img width="45" alt="WordPress" title="WordPress" src="./framwork/icons8-wordpress.svg" />
+  <img width="45" alt="Arduino" title="Arduino" src="./framwork/icons8-arduino.svg" />
+  <img width="45" alt="Framework tool" title="Framework tool" src="./framwork/24939410.png" />
+  <img width="45" alt="Framework tool" title="Framework tool" src="./framwork/download.png" />
+</p>
+
+<h3>Databases, Infrastructure, and Collaboration</h3>
+<p>
+  <img width="45" alt="PostgreSQL" title="PostgreSQL" src="./databases/icons8-postgres.svg" />
+  <img width="45" alt="MongoDB" title="MongoDB" src="./databases/icons8-mongodb.svg" />
+  <img width="45" alt="Redis" title="Redis" src="./databases/icons8-redis.svg" />
+  <img width="45" alt="Microsoft SQL Server" title="Microsoft SQL Server" src="./databases/icons8-microsoft-sql-server.svg" />
+  <img width="45" alt="MySQL" title="MySQL" src="./databases/icons8-mysql-96.png" />
+  <img width="45" alt="Neo4j" title="Neo4j" src="./databases/icons8-neo4j-a-graph-database-management-system-developed-96.png" />
+  <img width="45" alt="SQLite" title="SQLite" src="./databases/icons8-sqlite.svg" />
+  <img width="45" alt="GitHub" title="GitHub" src="./databases/icons8-github.svg" />
+  <img width="45" alt="Database tool" title="Database tool" src="./databases/download (1).png" />
+  <img width="45" alt="Database tool" title="Database tool" src="./databases/download (2).png" />
+  <img width="45" alt="Database tool" title="Database tool" src="./databases/download.jpeg" />
+</p>
+
+<details>
+  <summary><strong>Focused stack summary</strong></summary>
+  <br />
   <img width="42" alt="TypeScript" title="TypeScript" src="./lang/icons8-typescript.svg" />
   <img width="42" alt="JavaScript" title="JavaScript" src="./lang/icons8-javascript.svg" />
   <img width="42" alt="Node.js" title="Node.js" src="./lang/icons8-node-js.svg" />
@@ -131,13 +184,14 @@ The dream matters, but I also care deeply about shipping real systems that survi
   <img width="42" alt="MySQL" title="MySQL" src="./databases/icons8-mysql-96.png" />
   <img width="42" alt="Neo4j" title="Neo4j" src="./databases/icons8-neo4j-a-graph-database-management-system-developed-96.png" />
   <img width="42" alt="GitHub" title="GitHub" src="./databases/icons8-github.svg" />
-</p>
+  <br /><br />
 
 **Backend:** Node.js, NestJS, TypeScript, Express.js, REST APIs, GraphQL, Microservices, Prisma, TypeORM<br />
 **Data:** PostgreSQL, MongoDB, Redis, Neo4j, MySQL, SQLite, SQL Server, indexing, query optimization<br />
 **Real-time:** RabbitMQ, WebSockets, Socket.IO, WebRTC, Firebase Realtime Database<br />
 **Infrastructure:** Docker, Kubernetes, Nginx, Linux servers, CI/CD, object storage, VPS operations<br />
 **Frontend when useful:** Angular, React, Next.js, Vue.js, HTML, CSS, JavaScript, ASP.NET Core
+</details>
 
 ## Where To Start
 
