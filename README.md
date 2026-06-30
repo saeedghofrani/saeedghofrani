@@ -1,113 +1,143 @@
-   <p>
-         <a href="https://github.com/"><img width="100%"title="Saeed Ghofrani Ivari" src="./banner/7.svg"></a>
-   <p>
+<div align="center">
+  <a href="https://saeedghofrani.xyz">
+    <img src="./banner/7.svg" width="100%" alt="Saeed Ghofrani Ivari - Senior Backend Engineer" />
+  </a>
+</div>
 
-<div>
-   <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Handlee&size=25&pause=1000&color=2C27F7&center=true&vCenter=true&random=false&width=435&lines=Web+Developer;Over+4+years+of+experience;Always+Learning+New+Things"></a>
-   </p>
+<h1 align="center">Saeed Ghofrani Ivari</h1>
 
-   <p align="center">
-   <a href="mailto:sa.ghofrnaiivari@gmail.com"><img width="50px" alt="Youtube" title="Youtube" src="./social/icons8-gmail.svg" style="filter: hue-rotate(210deg);"/></a>
-   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://www.linkedin.com/in/saeed-ghofrani-ivari/"><img width="50px" alt="LinkedIn" title="LinkedIn" src="./social/icons8-linkedin.svg" style="filter: hue-rotate(210deg);"/></a>
-   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://t.me/SaeedGhofraniIvari"><img width="50px" alt="Dev.to" title="DenverCoder1 Dev.to" src="./social/icons8-telegram.svg" style="filter: hue-rotate(210deg);"/></a>
-   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://saeedghofrani.com/"><img width="45px" alt="Ko-fi" title="Buy me a coffee" src="./social/website-generic-svgrepo-com.svg" style="filter: hue-rotate(210deg);"/></a>
-   </p>
+<h3 align="center">Senior Backend Engineer and Engineering Manager</h3>
 
-   <br/>
+<p align="center">
+  I build backend systems, real-time platforms, and production infrastructure with a focus on reliability, performance, and clear business outcomes.
+</p>
 
-### Aspiring Full-Stack Developer | Building the Future with Node js and Go
+<p align="center">
+  <a href="https://saeedghofrani.xyz"><strong>Portfolio</strong></a>
+  ·
+  <a href="https://saeedghofrani.xyz/#recruiters"><strong>Recruiter Brief</strong></a>
+  ·
+  <a href="https://saeedghofrani.xyz/#case-studies"><strong>Case Studies</strong></a>
+  ·
+  <a href="https://saeedghofrani.xyz/#projects"><strong>Projects</strong></a>
+  ·
+  <a href="https://saeedghofrani.xyz/#contact"><strong>Contact</strong></a>
+</p>
 
-## About Me 🚀
-
----
-
-Hey there! I'm a passionate developer with a background in C#, ASP.NET, Node.js, Angular and Nest.js and a strong desire to become a well-rounded full-stack developer. I'm currently diving into the exciting worlds of Go, Vue.js, Angular, React, and ASP.NET. Beyond coding, I'm fascinated by data science and love working with databases, writing complex SQL queries, and analyzing data. When I'm not coding, you'll find me lost in a good movie, jamming to music, or conquering video game challenges. I'm always eager to learn new things and collaborate on interesting projects. Let's connect!
-
-## Technical Skills And Favorite Tools 🛠️
-
-   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
-   <h3>👨‍💻 Programming and Markup Languages</h3>
-
-   <p>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Assembly" alt="Assembly" src="./lang/icons8-assembly-96.png"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Bash" alt="Bash" src="./lang/icons8-bash.svg"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="C#" alt="C#" src="./lang/icons8-c.svg"></a>
-               <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Unity" alt="Unity" src="./lang/icons8-unity (1).svg"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="CSS" alt="CSS" src="./lang/icons8-css.svg"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="GoLang" alt="GoLang" src="./lang/icons8-golang.svg"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="HTML" alt="HTML" src="./lang/icons8-html.svg"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Javascript" alt="Javascript" src="./lang/icons8-javascript.svg"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Markdown" alt="Markdown" src="./lang/icons8-markdown-100.png"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Node.js" alt="Node.js" src="./lang/icons8-node-js.svg"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Structured Query Language" alt="Structured Query Language" src="./lang/icons8-sql-100.png"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Typescript" alt="Typescript" src="./lang/icons8-typescript.svg"></a>
-   </p>
-
-   <h3>🧰 Frameworks and Libraries</h3>
-
-   <p>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="ASP.net Core" alt="ASP.net Core" src="./lang/Bitmap-MEDIUM_ASP.NET-Core-MVC-Logo_2colors_Square_Boxed_RGB.png"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Typescript" alt="Typescript" src="./framwork/24939410.png"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Typescript" alt="Typescript" src="./framwork/download.png"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Typescript" alt="Typescript" src="./framwork/icons8-angular.svg"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Typescript" alt="Typescript" src="./framwork/icons8-arduino.svg"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Typescript" alt="Typescript" src="./framwork/icons8-bootstrap.svg"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Typescript" alt="Typescript" src="./framwork/icons8-jquery.svg"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Typescript" alt="Typescript" src="./framwork/icons8-nestjs.svg"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Typescript" alt="Typescript" src="./framwork/icons8-react.svg"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Typescript" alt="Typescript" src="./framwork/icons8-wordpress.svg"></a>
-   </p>
-
-   <h3>🗄️ Databases and Cloud Hosting</h3>
-
-   <p>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Typescript" alt="Typescript" src="./databases/download (1).png"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Typescript" alt="Typescript" src="./databases/download (2).png"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Typescript" alt="Typescript" src="./databases/download.jpeg"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Typescript" alt="Typescript" src="./databases/icons8-github.svg"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Typescript" alt="Typescript" src="./databases/icons8-microsoft-sql-server.svg"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Typescript" alt="Typescript" src="./databases/icons8-mongodb.svg"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Typescript" alt="Typescript" src="./databases/icons8-mysql-96.png"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Typescript" alt="Typescript" src="./databases/icons8-neo4j-a-graph-database-management-system-developed-96.png"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Typescript" alt="Typescript" src="./databases/icons8-postgres.svg"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Typescript" alt="Typescript" src="./databases/icons8-redis.svg"></a>
-         <a href="https://github.com/"><img width="45px" alt="Ko-fi" title="Typescript" alt="Typescript" src="./databases/icons8-sqlite.svg"></a>
-   </p>
-
-## My GitHub Stats 📊
+<p align="center">
+  <a href="mailto:sa.ghofraniivari@gmail.com">
+    <img alt="Email" title="Email" width="42" src="./social/icons8-gmail.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/saeed-ghofrani-ivari/">
+    <img alt="LinkedIn" title="LinkedIn" width="42" src="./social/icons8-linkedin.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/SaeedGhofraniIvari">
+    <img alt="Telegram" title="Telegram" width="42" src="./social/icons8-telegram.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://saeedghofrani.xyz">
+    <img alt="Website" title="Website" width="40" src="./social/website-generic-svgrepo-com.svg" />
+  </a>
+</p>
 
 ---
+
+## Recruiter Signal
+
+| Experience | Leadership | Reliability | Performance | Real-Time Scale |
+| --- | --- | --- | --- | --- |
+| 5+ years | Team of 8 | 99.9% uptime | 40% lower API latency | 500+ concurrent users |
+
+I am strongest where product requirements meet production constraints: service boundaries, database design, queue-driven workflows, deployment, observability, and the engineering habits that keep teams shipping without breaking core business behavior.
+
+## What I Build
+
+| Area | What it means in practice |
+| --- | --- |
+| Backend platforms | NestJS, TypeScript, REST/GraphQL APIs, Prisma, TypeORM, service boundaries, authentication, operator workflows |
+| Real-time systems | WebSockets, Socket.IO, WebRTC, RabbitMQ, event-driven flows, chat, VoIP, video sessions |
+| Data and performance | PostgreSQL, MongoDB, Redis, Neo4j, query optimization, indexing, reporting, persistence design |
+| Infrastructure | Docker, Kubernetes, Nginx, Linux servers, CI/CD, production deployment, uptime ownership |
+| Engineering leadership | Delivery planning, mentoring, PR review, architecture review, technical documentation, hiring collaboration |
+
+## Proof Map
+
+| System | Backend value |
+| --- | --- |
+| **License Market Backend** | Production NestJS backend for operator workflows, ticketing, real-time AI chat, reporting, and integrations. Maintained 99.9% uptime, reduced API latency by 40%, and supported delivery with a backend team of 8 engineers. |
+| **Mobasher Real-Time Consulting Platform** | Consulting, learning, chat, VoIP, video, Socket.IO, WebRTC, SQL optimization, and backend microservices for 500+ concurrent users. |
+| **Crypto Exchange KYC and Persistence** | Financial backend systems with KYC/AML, exchange integrations, blockchain nodes, and PostgreSQL, MongoDB, Neo4j, Redis, and Elasticsearch. |
+| **Portfolio Platform** | Full-stack personal platform with backend-managed content, case studies, recruiter paths, public pages, admin workflows, and VPS deployment. |
+| **compare-guard** | Safe, chainable comparison helpers for direct values and nullable nested object paths in JavaScript and TypeScript projects. |
+| **Object Creator** | Utility for creating nested JavaScript objects from string paths, with dynamic object structures and reusable object-modeling behavior. |
+
+## Fast Review Paths
+
+If you are reviewing my work, start here:
+
+1. **5-minute scan:** [Recruiter brief](https://saeedghofrani.xyz/#recruiters) for role fit, metrics, and contact routes.
+2. **Technical review:** [Architecture](https://saeedghofrani.xyz/#architecture) for system design and backend tradeoffs.
+3. **Evidence review:** [Case studies](https://saeedghofrani.xyz/#case-studies) for constraints, implementation choices, and impact.
+4. **Project review:** [Selected projects](https://saeedghofrani.xyz/#projects) and public GitHub repositories.
+5. **Direct contact:** [Email](mailto:sa.ghofraniivari@gmail.com), [LinkedIn](https://www.linkedin.com/in/saeed-ghofrani-ivari/), or [Telegram](https://t.me/SaeedGhofraniIvari).
+
+## Core Stack
+
+<p>
+  <img width="42" alt="TypeScript" title="TypeScript" src="./lang/icons8-typescript.svg" />
+  <img width="42" alt="JavaScript" title="JavaScript" src="./lang/icons8-javascript.svg" />
+  <img width="42" alt="Node.js" title="Node.js" src="./lang/icons8-node-js.svg" />
+  <img width="42" alt="Go" title="Go" src="./lang/icons8-golang.svg" />
+  <img width="42" alt="C Sharp" title="C#" src="./lang/icons8-c.svg" />
+  <img width="42" alt="SQL" title="SQL" src="./lang/icons8-sql-100.png" />
+  <img width="42" alt="NestJS" title="NestJS" src="./framwork/icons8-nestjs.svg" />
+  <img width="42" alt="Angular" title="Angular" src="./framwork/icons8-angular.svg" />
+  <img width="42" alt="React" title="React" src="./framwork/icons8-react.svg" />
+  <img width="42" alt="PostgreSQL" title="PostgreSQL" src="./databases/icons8-postgres.svg" />
+  <img width="42" alt="MongoDB" title="MongoDB" src="./databases/icons8-mongodb.svg" />
+  <img width="42" alt="Redis" title="Redis" src="./databases/icons8-redis.svg" />
+  <img width="42" alt="Microsoft SQL Server" title="Microsoft SQL Server" src="./databases/icons8-microsoft-sql-server.svg" />
+  <img width="42" alt="MySQL" title="MySQL" src="./databases/icons8-mysql-96.png" />
+  <img width="42" alt="Neo4j" title="Neo4j" src="./databases/icons8-neo4j-a-graph-database-management-system-developed-96.png" />
+  <img width="42" alt="GitHub" title="GitHub" src="./databases/icons8-github.svg" />
+</p>
+
+**Backend:** Node.js, NestJS, TypeScript, Express.js, REST APIs, GraphQL, Microservices, Prisma, TypeORM<br />
+**Data:** PostgreSQL, MongoDB, Redis, Neo4j, MySQL, SQLite, SQL Server, query optimization<br />
+**Real-time:** RabbitMQ, WebSockets, Socket.IO, WebRTC, Firebase Realtime Database<br />
+**Infrastructure:** Docker, Kubernetes, Nginx, Linux servers, CI/CD, object storage, VPS operations<br />
+**Frontend:** Angular, React, Next.js, Vue.js, HTML, CSS, JavaScript, ASP.NET Core
+
+## Current Focus
+
+- Designing reliable backend systems with clear service boundaries.
+- Improving PostgreSQL/API performance without changing business behavior.
+- Building real-time features that stay maintainable after launch.
+- Turning production experience into architecture notes and public case studies.
+
+## GitHub Activity
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saeedghofrani&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Saeed's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedghofrani&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Saeed's top languages" height="180" />
+</div>
 
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=saeedghofrani&show_icons=true&theme=radical" alt="Saeed's GitHub Stats" height="200" width="100%"/></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=saeedghofrani&theme=radical" alt="Saeed's GitHub Streak" height="200" width="100%"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedghofrani&langs_count=8&theme=radical&layout=compact" alt="Top Languages" height="200" width="100%"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=saeedghofrani&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical" alt="GitHub Stars" width="100%" height="200"/></td>
-    </tr>
-  </table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saeedghofrani&theme=tokyonight&hide_border=true" alt="Saeed's GitHub streak" width="70%" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saeedghofrani&theme=tokyo-night&hide_border=true&area=true" alt="Saeed's GitHub activity graph" width="100%" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saeedghofrani&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
-</div>
-
----
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=saeedghofrani&theme=onedark&row=1&column=10&margin-h=50)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <strong>Open to backend, platform, real-time systems, and engineering leadership roles.</strong>
+  <br />
+  <a href="mailto:sa.ghofraniivari@gmail.com">sa.ghofraniivari@gmail.com</a>
+  ·
+  <a href="https://saeedghofrani.xyz">saeedghofrani.xyz</a>
+</p>
