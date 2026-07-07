@@ -97,6 +97,13 @@ These are the kinds of public projects I want more of in this profile:
 | **Architecture demos** | Small but complete examples of queues, caching, WebSockets, auth, deployment, and observability. |
 | **Performance notes** | Practical experiments around PostgreSQL, Redis, query plans, and API latency. |
 
+## Language Proof Points
+
+| Language | Evidence |
+| --- | --- |
+| **Rust** | [rust-signalforge](https://github.com/saeedghofrani/rust-signalforge), an async Axum/Tokio API with typed Serde models, recruiter signal scoring, service health monitoring, structured logging, health endpoints, and integration tests. |
+| **Go / Golang** | Quit Together, a private Go platform for quitting smoking with signed-session auth, progress tracking, calendar check-ins, community posts/reactions, image uploads, PostgreSQL persistence, Neo4j recommendations, Docker Compose, and `go test ./...` verification. |
+
 ## Proof From Production
 
 The dream matters, but I also care deeply about shipping real systems that survive real users.
@@ -117,6 +124,7 @@ The dream matters, but I also care deeply about shipping real systems that survi
 | **Mobasher Consulting Platform** | Real-time consulting, learning, chat, VoIP, video, Socket.IO, WebRTC, SQL optimization, and backend microservices. |
 | **Crypto Exchange KYC and Persistence** | Financial backend systems with KYC/AML, exchange integrations, blockchain nodes, and multi-database persistence. |
 | **Portfolio Platform** | Public portfolio, recruiter paths, case studies, admin workflows, backend-managed content, and VPS deployment. |
+| **Quit Together** | Private Go/Golang quit-smoking platform with auth, progress analytics, social support workflows, PostgreSQL, Neo4j, and Docker-based local operations. |
 
 ## Tools I Reach For
 
