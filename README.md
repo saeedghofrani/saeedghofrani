@@ -23,6 +23,8 @@ I build and operate backend systems for commerce, trading, payments, operator wo
 | [WebRTC client](https://github.com/saeedghofrani/Webrtc-Client-React) and [server](https://github.com/saeedghofrani/webrtc-server) | Browser real-time communication, signaling, room state, chat, and deployment work. |
 | [Portfolio Platform](https://saeedghofrani.xyz/architecture) | A deployed Next.js, NestJS, Prisma, PostgreSQL, Docker, and VPS platform. The source repository is private. |
 
+[Browse the complete public repository archive](https://github.com/saeedghofrani?tab=repositories)
+
 ## Production experience
 
 - Led a backend team of 8 and coordinated 5+ major releases for a commerce and operator platform using NestJS, PostgreSQL, Prisma, Redis, RabbitMQ, Docker, Nginx, and Linux.
