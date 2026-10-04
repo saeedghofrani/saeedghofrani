@@ -37,4 +37,4 @@
 - [x] Run a local asset-reference check for README image paths.
 - [x] Inspect `git diff -- README.md docs/superpowers/specs/2026-07-01-profile-readme-refresh-design.md docs/superpowers/plans/2026-07-01-profile-readme-refresh.md`.
 - [ ] Commit with message `docs: refresh GitHub profile readme`.
-- [ ] Push branch `codex/profile-readme-refresh` to `origin`.
+- [ ] Push branch `profile-readme-refresh` to `origin`.

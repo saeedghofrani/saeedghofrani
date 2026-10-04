@@ -18,15 +18,15 @@ The README should lead with creative identity, builder ambition, open-source dir
 2. Builder manifesto explaining open-source ambition and engineering personality.
 3. Future-facing directions: backend tools, real-time infrastructure, AI-assisted systems, performance, and documentation.
 4. Engineering taste section with clear principles.
-5. Open-source lab covering current and desired public projects.
-6. Production proof covering License Market, Mobasher, Crypto Exchange KYC, Portfolio Platform, compare-guard, and Object Creator.
+5. Selected public work covering verified repositories and packages.
+6. Production proof covering License Market, Mobasher, Portfolio Platform, compare-guard, rust-signalforge, and the WebRTC client/server, with client source clearly labeled private.
 7. Core stack, review paths, and GitHub activity sections.
 
 ## Constraints
 
 - Keep the README GitHub-native and readable without custom CSS.
 - Reuse existing repository assets.
-- Avoid secrets, private URLs, or claims not already represented on the public portfolio.
+- Avoid secrets, private URLs, unsupported projects, or claims that are not verified in the canonical career profile.
 - Keep external widgets lower on the page so the first screen remains creator-focused.
 
 ## Verification
