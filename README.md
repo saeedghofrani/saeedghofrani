@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://saeedghofrani.xyz">
-    <img src="./banner/7.svg" width="100%" alt="Saeed Ghofrani Ivari" />
+    <img src="./banner/1.png" width="100%" alt="Saeed Ghofrani Ivari" />
   </a>
 </div>
 
