@@ -12,7 +12,7 @@ Adana, Turkey · Open to international and remote opportunities
 
 I build and operate backend systems for commerce, trading, payments, operator workflows, and real-time products. My work spans architecture, implementation, code review, database performance, incident response, delivery, and engineering leadership.
 
-[Portfolio](https://saeedghofrani.xyz) · [Projects](https://saeedghofrani.xyz/projects) · [Case studies](https://saeedghofrani.xyz/case-studies) · [Architecture](https://saeedghofrani.xyz/architecture) · [Email](mailto:sa.ghofraniivari@gmail.com)
+[Portfolio](https://saeedghofrani.xyz) · [Resume](https://saeedghofrani.xyz/resume.pdf) · [Projects](https://saeedghofrani.xyz/projects) · [Case studies](https://saeedghofrani.xyz/case-studies) · [Architecture](https://saeedghofrani.xyz/architecture) · [Email](mailto:sa.ghofraniivari@gmail.com)
 
 ## Selected public work
 
