@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Saeed Ghofrani Ivari</title>
+  <desc id="desc">Engineering Manager and Senior Backend Engineer</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101828" />
+      <stop offset="0.55" stop-color="#172554" />
+      <stop offset="1" stop-color="#312e81" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" />
+      <stop offset="0.5" stop-color="#818cf8" />
+      <stop offset="1" stop-color="#f472b6" />
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.055" stroke-width="1" />
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18" />
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="26" fill="url(#background)" />
+  <rect width="1200" height="360" rx="26" fill="url(#grid)" />
+
+  <circle cx="1040" cy="72" r="92" fill="#22d3ee" fill-opacity="0.13" filter="url(#glow)" />
+  <circle cx="1110" cy="286" r="120" fill="#f472b6" fill-opacity="0.11" filter="url(#glow)" />
+  <circle cx="148" cy="330" r="88" fill="#818cf8" fill-opacity="0.13" filter="url(#glow)" />
+
+  <g transform="translate(80 76)">
+    <rect x="0" y="0" width="72" height="72" rx="18" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.2" />
+    <path d="M27 22L13 36L27 50M45 22L59 36L45 50" fill="none" stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+
+    <text x="0" y="134" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="1">Saeed Ghofrani Ivari</text>
+    <rect x="0" y="155" width="690" height="5" rx="2.5" fill="url(#accent)" />
+    <text x="0" y="204" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" letter-spacing="2">ENGINEERING MANAGER / SENIOR BACKEND ENGINEER</text>
+    <text x="0" y="246" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="17" letter-spacing="3">BACKEND SYSTEMS  •  REAL-TIME PRODUCTS  •  OPEN SOURCE</text>
+  </g>
+
+  <g transform="translate(936 105)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 55H72M36 19V91" stroke="#22d3ee" stroke-width="5" />
+    <circle cx="36" cy="55" r="13" fill="#172554" stroke="#ffffff" stroke-width="4" />
+    <circle cx="0" cy="55" r="9" fill="#172554" stroke="#818cf8" stroke-width="4" />
+    <circle cx="72" cy="55" r="9" fill="#172554" stroke="#f472b6" stroke-width="4" />
+    <circle cx="36" cy="19" r="9" fill="#172554" stroke="#22d3ee" stroke-width="4" />
+    <circle cx="36" cy="91" r="9" fill="#172554" stroke="#818cf8" stroke-width="4" />
+  </g>
+
+  <g transform="translate(900 270)" font-family="Consolas, monospace" font-size="34" font-weight="700">
+    <text x="0" y="0" fill="#22d3ee">{</text>
+    <text x="42" y="0" fill="#f8fafc">api</text>
+    <text x="100" y="0" fill="#f472b6">:</text>
+    <text x="126" y="0" fill="#818cf8">true</text>
+    <text x="205" y="0" fill="#22d3ee">}</text>
+  </g>
+</svg>
