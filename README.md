@@ -9,7 +9,7 @@
 <h3 align="center">Engineering Manager / Senior Backend Engineer</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://saeedghofrani.xyz/projects">
     <img src="https://readme-typing-svg.herokuapp.com?font=Handlee&size=28&pause=1500&color=0891B2&center=true&vCenter=true&random=false&width=760&lines=Senior+Backend+Engineer;Engineering+Manager;Open-Source+Builder;Real-Time+Systems;Developer+Tools" alt="Engineering focus" />
   </a>
 </p>
