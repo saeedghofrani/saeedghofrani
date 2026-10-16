@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Handlee&size=28&pause=900&color=2C27F7&center=true&vCenter=true&random=false&width=760&lines=Senior+Backend+Engineer;Engineering+Manager;Open-Source+Builder;Real-Time+Systems;Developer+Tools" alt="Engineering focus" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Handlee&size=28&pause=1500&color=0891B2&center=true&vCenter=true&random=false&width=760&lines=Senior+Backend+Engineer;Engineering+Manager;Open-Source+Builder;Real-Time+Systems;Developer+Tools" alt="Engineering focus" />
   </a>
 </p>
 
@@ -33,11 +33,11 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://saeedghofrani.xyz">
-    <img alt="Portfolio" title="Portfolio" width="50" src="./social/website-generic-svgrepo-com.svg" />
+    <img alt="Portfolio" title="Portfolio" width="50" src="./social/portfolio-link.svg" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://saeedghofrani.xyz/resume.pdf">
-    <img alt="Resume" title="Resume" width="50" src="./social/icons8-website-100.png" />
+    <img alt="Resume" title="Resume" width="50" src="./social/resume-link.svg" />
   </a>
 </p>
 
