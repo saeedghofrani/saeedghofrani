@@ -57,13 +57,27 @@
 
 ## Selected Public Work
 
-| Project | Visibility | What it demonstrates |
-| --- | --- | --- |
-| [**compare-guard**](https://github.com/saeedghofrani/compare-guard) | Public open source | A zero-dependency TypeScript library for safe nested-path comparison, deep equality, validation helpers, and defensive property access. |
-| [**devotell-dtai**](https://github.com/saeedghofrani/devotell-dtai) | Public integration project | NestJS job-data normalization, PostgreSQL/TypeORM persistence, migrations, Docker, and health checks. |
-| [**rust-signalforge**](https://github.com/saeedghofrani/rust-signalforge) | Public open source | A deliberately small Rust/Axum learning service with typed routes, separated domain logic, structured logging, health endpoints, and HTTP integration tests. |
-| [**WebRTC client**](https://github.com/saeedghofrani/Webrtc-Client-React) and [**server**](https://github.com/saeedghofrani/webrtc-server) | Public demo | Browser real-time communication, signaling, room state, chat, and deployment work. |
-| [**Portfolio Platform**](https://saeedghofrani.xyz/architecture) | Deployed; private source | A Next.js, NestJS, Prisma, PostgreSQL, Docker, and VPS platform documented through its public architecture and case studies. |
+### [compare-guard](https://github.com/saeedghofrani/compare-guard)
+
+**Public open source · TypeScript library**  
+Zero-dependency comparisons for nullable object paths, deep equality, validation helpers, and defensive property access.
+
+### [devotell-dtai](https://github.com/saeedghofrani/devotell-dtai)
+
+**Public integration project · NestJS / PostgreSQL**  
+Normalize two job-provider payloads into shared entities, with TypeORM persistence, migrations, Docker, and health checks.
+
+### [WebRTC client](https://github.com/saeedghofrani/Webrtc-Client-React) and [server](https://github.com/saeedghofrani/webrtc-server)
+
+**Public demo · React / Socket.IO**  
+Two-person calling, signaling, room state, and chat. [Try the meeting room](https://meet.saeedghofrani.xyz).
+
+### [rust-signalforge](https://github.com/saeedghofrani/rust-signalforge)
+
+**Public open source · Rust / Axum learning project**  
+Typed routes, separate domain logic, structured logging, health endpoints, and HTTP integration tests.
+
+The [Portfolio Platform](https://saeedghofrani.xyz/architecture) is also deployed: its Next.js/NestJS/PostgreSQL source remains private, with public architecture and case studies.
 
 <p align="center">
   <a href="https://github.com/saeedghofrani?tab=repositories"><strong>Browse the complete public repository archive →</strong></a>
@@ -107,12 +121,10 @@ Build predictable APIs, make data ownership explicit, keep background work obser
 
 ## Live Projects
 
-| Project | Availability | Source visibility |
-| --- | --- | --- |
-| [**Portfolio**](https://saeedghofrani.xyz) | Live | Private |
-| [**WebRTC meeting room**](https://meet.saeedghofrani.xyz) | Live | Public client and server repositories |
-| [**Quit Together**](https://smoke.saeedghofrani.xyz) | Live; account required | Private Go repository |
-| [**Story Platform**](https://story.saeedghofrani.xyz) | Live | Private repository |
+- [**Portfolio Playground**](https://saeedghofrani.xyz/playground): try browser demonstrations; each explains its scope and source availability.
+- [**WebRTC meeting room**](https://meet.saeedghofrani.xyz): open the same room on two devices. Client and server source are public.
+- [**Quit Together**](https://smoke.saeedghofrani.xyz): a private Go product with a public landing page; an account is required to explore it.
+- [**Story Platform**](https://story.saeedghofrani.xyz): a public reading interface backed by a private personal repository.
 
 ## Start a conversation
 
