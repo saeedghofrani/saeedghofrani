@@ -59,22 +59,26 @@
 
 ### [compare-guard](https://github.com/saeedghofrani/compare-guard)
 
-**Public open source · TypeScript library**  
+**Public open source · TypeScript library**
+
 Zero-dependency comparisons for nullable object paths, deep equality, validation helpers, and defensive property access.
 
 ### [devotell-dtai](https://github.com/saeedghofrani/devotell-dtai)
 
-**Public integration project · NestJS / PostgreSQL**  
+**Public integration project · NestJS / PostgreSQL**
+
 Normalize two job-provider payloads into shared entities, with TypeORM persistence, migrations, Docker, and health checks.
 
 ### [WebRTC client](https://github.com/saeedghofrani/Webrtc-Client-React) and [server](https://github.com/saeedghofrani/webrtc-server)
 
-**Public demo · React / Socket.IO**  
+**Public demo · React / Socket.IO**
+
 Two-person calling, signaling, room state, and chat. [Try the meeting room](https://meet.saeedghofrani.xyz).
 
 ### [rust-signalforge](https://github.com/saeedghofrani/rust-signalforge)
 
-**Public open source · Rust / Axum learning project**  
+**Public open source · Rust / Axum learning project**
+
 Typed routes, separate domain logic, structured logging, health endpoints, and HTTP integration tests.
 
 The [Portfolio Platform](https://saeedghofrani.xyz/architecture) is also deployed: its Next.js/NestJS/PostgreSQL source remains private, with public architecture and case studies.
