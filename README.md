@@ -115,16 +115,47 @@ The dream matters, but I also care deeply about shipping real systems that survi
 | **Reliability** | Maintained 99.9% uptime on a production backend platform. |
 | **Performance** | Reduced API latency by 40% through backend and database improvements. |
 | **Real-time scale** | Built and supported real-time systems serving 500+ concurrent users. |
+| **Trading and payment systems** | Built backend services for gold, crypto, wallet, payment, and real-time market workflows. |
+
+## Professional Experience
+
+| Role | Company / Client | Dates | Focus |
+| --- | --- | --- | --- |
+| **Backend Developer, Freelance** | [GBT Market](https://gbtmarket.com/) | Jan 2025-Jun 2026 | Backend services for gold and crypto trading, real-time pricing, chart history, wallets, payment gateway integrations, and production operations. |
 
 ## Systems I Have Shipped
 
 | System | What I built or improved |
 | --- | --- |
+| **GBT Market Trading Platform** | Freelance backend work on gold and crypto trading flows, real-time pricing, chart history, wallets, payment gateway integrations, and production operations. |
 | **License Market Backend** | NestJS backend for operator workflows, ticketing, real-time AI chat, reporting, integrations, and production reliability. |
 | **Mobasher Consulting Platform** | Real-time consulting, learning, chat, VoIP, video, Socket.IO, WebRTC, SQL optimization, and backend microservices. |
 | **Crypto Exchange KYC and Persistence** | Financial backend systems with KYC/AML, exchange integrations, blockchain nodes, and multi-database persistence. |
 | **Portfolio Platform** | Public portfolio, recruiter paths, case studies, admin workflows, backend-managed content, and VPS deployment. |
 | **Quit Together** | Private Go/Golang quit-smoking platform with auth, progress analytics, social support workflows, PostgreSQL, Neo4j, and Docker-based local operations. |
+
+## Selected Case Studies
+
+<details open>
+  <summary><strong>GBT Market Trading Platform</strong> - Backend Developer, Freelance | Jan 2025-Jun 2026</summary>
+  <br />
+
+**Domain:** Gold and crypto trading platform at [gbtmarket.com](https://gbtmarket.com/).
+
+**Backend architecture and trading systems:** Developed and maintained backend services for gold and crypto trading using NestJS, TypeScript, MongoDB, Redis, and Socket.IO.
+
+**Real-time pricing and charting:** Built price update, chart history, and WebSocket flows for gold, tether, and melted-gold markets, supporting live market data across M1, M5, M15, M30, H1, H4, and D1 timeframes.
+
+**Wallets, payments, and security:** Implemented wallet, transaction, crypto payment gateway, encryption, captcha, and admin/provider workflows with TRON, BSC, and third-party payment integrations.
+
+**Infrastructure and integration:** Worked with Docker, PM2, Swagger/OpenAPI, scheduled jobs, logging, queues, and external APIs to improve reliability, maintainability, and production operations.
+
+**Backend surface area:** Contributed across auth, user and role/permission workflows, order flows for gold, tether, and melted-gold markets, wallet transfers/conversions/logs, provider wallet requests, money transfers, chart data, sockets, tickets, online support, MQL5, IPG, economy calendar, app versioning, and campaigns.
+
+**Crypto gateway work:** Supported provider, transaction, blockchain, payment, gateway, wallet, transaction-checker, pricing, mail, recaptcha, health, and encryption workflows across TRON, Bitcoin, and BSC-oriented integrations.
+
+**Stack:** TypeScript, NestJS, Node.js, MongoDB/Mongoose, Redis/ioredis, Bull queues, Socket.IO, JWT/Passport, Swagger/OpenAPI, Docker, PM2, TRON/tronweb, BSC, class-validator, Joi, bcrypt, axios.
+</details>
 
 ## Tools I Reach For
 
@@ -194,10 +225,11 @@ The dream matters, but I also care deeply about shipping real systems that survi
   <img width="42" alt="GitHub" title="GitHub" src="./databases/icons8-github.svg" />
   <br /><br />
 
-**Backend:** Node.js, NestJS, TypeScript, Express.js, REST APIs, GraphQL, Microservices, Prisma, TypeORM<br />
-**Data:** PostgreSQL, MongoDB, Redis, Neo4j, MySQL, SQLite, SQL Server, indexing, query optimization<br />
-**Real-time:** RabbitMQ, WebSockets, Socket.IO, WebRTC, Firebase Realtime Database<br />
-**Infrastructure:** Docker, Kubernetes, Nginx, Linux servers, CI/CD, object storage, VPS operations<br />
+**Backend:** Node.js, NestJS, TypeScript, Express.js, REST APIs, GraphQL, Microservices, Prisma, TypeORM, JWT/Passport<br />
+**Data:** PostgreSQL, MongoDB, Mongoose, Redis, Neo4j, MySQL, SQLite, SQL Server, indexing, query optimization<br />
+**Real-time:** RabbitMQ, Bull queues, WebSockets, Socket.IO, WebRTC, Firebase Realtime Database, live chart data<br />
+**Infrastructure:** Docker, PM2, Swagger/OpenAPI, Kubernetes, Nginx, Linux servers, CI/CD, scheduled jobs, logging, object storage, VPS operations<br />
+**Financial systems:** Wallets, transaction flows, payment gateways, TRON/tronweb, BSC integrations, third-party payment APIs<br />
 **Frontend when useful:** Angular, React, Next.js, Vue.js, HTML, CSS, JavaScript, ASP.NET Core
 </details>
 
