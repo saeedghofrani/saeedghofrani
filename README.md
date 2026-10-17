@@ -105,9 +105,16 @@ The dream matters, but I also care deeply about shipping real systems that survi
 | --- | --- |
 | **5+ years building software** | Backend, full-stack, real-time, database, and infrastructure work across production systems. |
 | **Engineering leadership** | Led and supported a backend team of 8 engineers through planning, review, delivery, and debugging. |
+| **Trading and payment systems** | Built backend services for gold, crypto, wallet, payment, and real-time market workflows. |
 | **Reliability** | Maintained 99.9% uptime on a production backend platform. |
 | **Performance** | Reduced API latency by 40% through backend and database improvements. |
 | **Real-time scale** | Built and supported real-time systems serving 500+ concurrent users. |
+
+## Recent Freelance Work
+
+| Engagement | Scope |
+| --- | --- |
+| **GBT Market — Backend Developer (Freelance), Jan 2025-Jun 2026** | Backend work for a gold and crypto trading platform: trading flows, live pricing, chart history, wallets, crypto payment gateways, provider/admin workflows, and production operations. |
 
 ## Systems I Have Shipped
 
@@ -115,6 +122,7 @@ The dream matters, but I also care deeply about shipping real systems that survi
 | --- | --- |
 | **License Market Backend** | NestJS backend for operator workflows, ticketing, real-time AI chat, reporting, integrations, and production reliability. |
 | **Mobasher Consulting Platform** | Real-time consulting, learning, chat, VoIP, video, Socket.IO, WebRTC, SQL optimization, and backend microservices. |
+| **GBT Market Trading Platform** | Freelance backend work on gold and crypto trading flows, real-time pricing, chart history, wallets, payment gateway integrations, and production operations. |
 | **Crypto Exchange KYC and Persistence** | Financial backend systems with KYC/AML, exchange integrations, blockchain nodes, and multi-database persistence. |
 | **Portfolio Platform** | Public portfolio, recruiter paths, case studies, admin workflows, backend-managed content, and VPS deployment. |
 
@@ -186,10 +194,11 @@ The dream matters, but I also care deeply about shipping real systems that survi
   <img width="42" alt="GitHub" title="GitHub" src="./databases/icons8-github.svg" />
   <br /><br />
 
-**Backend:** Node.js, NestJS, TypeScript, Express.js, REST APIs, GraphQL, Microservices, Prisma, TypeORM<br />
+**Backend:** Node.js, NestJS, TypeScript, Express.js, REST APIs, GraphQL, Microservices, Prisma, TypeORM, Swagger/OpenAPI<br />
 **Data:** PostgreSQL, MongoDB, Redis, Neo4j, MySQL, SQLite, SQL Server, indexing, query optimization<br />
-**Real-time:** RabbitMQ, WebSockets, Socket.IO, WebRTC, Firebase Realtime Database<br />
-**Infrastructure:** Docker, Kubernetes, Nginx, Linux servers, CI/CD, object storage, VPS operations<br />
+**Real-time:** RabbitMQ, Bull queues, WebSockets, Socket.IO, WebRTC, Firebase Realtime Database<br />
+**Infrastructure:** Docker, Kubernetes, Nginx, PM2, Linux servers, CI/CD, object storage, VPS operations<br />
+**Trading and payments:** Wallets, crypto gateways, TRON, BSC, third-party payment APIs, live market data<br />
 **Frontend when useful:** Angular, React, Next.js, Vue.js, HTML, CSS, JavaScript, ASP.NET Core
 </details>
 
