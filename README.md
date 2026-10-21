@@ -62,7 +62,13 @@ Two-page resumes tailored to the role.
 - [Senior Backend Engineer](https://saeedghofrani.xyz/resume-senior-backend-engineer.pdf)
 - [Engineering Manager](https://saeedghofrani.xyz/resume-engineering-manager.pdf)
 
-## Selected Public Work
+## Personal projects
+
+- **[Mathematical Game Lab](https://saeedghofrani.xyz/projects/mathematical-game-lab)** — three Godot prototypes driven by Bayesian inference, timed routes, and computational geometry. C#, GDScript, and private source.
+- **[Cat Keyboard](https://saeedghofrani.xyz/projects/cat-keyboard)** — a native Windows keyboard guard with manual locking, tray controls, and emergency unlock. C#/.NET; private source.
+- **[Together Meet](https://saeedghofrani.xyz/projects/together-meet)** — two-person WebRTC calls, chat, and device diagnostics. Public web/signaling code; newer Android work remains private and needs real-device ringing verification.
+
+## Public code
 
 ### [compare-guard](https://github.com/saeedghofrani/compare-guard)
 
@@ -94,7 +100,7 @@ The [Portfolio Platform](https://saeedghofrani.xyz/architecture) is also deploye
   <a href="https://github.com/saeedghofrani?tab=repositories"><strong>Browse the complete public repository archive →</strong></a>
 </p>
 
-## Proof From Production
+## Production experience
 
 | Signal | Evidence |
 | --- | --- |
@@ -103,11 +109,11 @@ The [Portfolio Platform](https://saeedghofrani.xyz/architecture) is also deploye
 | **Performance** | Reduced average API latency by 40% through caching, indexing and query optimization, validated with database/API timing tests over approximately six months. |
 | **Real-time scale** | Supported 500+ concurrent users in production at Mobasher, with observed messaging latency of 100–150 ms. |
 | **Financial systems** | Built trading, pricing, wallet, transaction, payment, KYC/AML, and verification workflows. |
-| **Enterprise systems** | Delivered process, project, warehouse, finance, messaging, notification, and file workflows. |
+| **Enterprise systems** | Contributed to the Symorgh ERP platform using ASP.NET Core, Entity Framework Core, MySQL, and Angular. |
 
 Client and employer source code remains private. The portfolio case studies describe the work without exposing confidential implementation details.
 
-Production figures are owner-confirmed results from private work. Client telemetry remains private; the messaging figure is not a voice/video latency guarantee.
+Production figures are my reported results from private company records. Mobasher’s latency figure measures messaging, not voice or video.
 
 Ongoing freelance work includes GBT Market and Keyvangold, two separate trading-platform engagements started in 2025.
 
@@ -126,7 +132,7 @@ Ongoing freelance work includes GBT Market and Keyvangold, two separate trading-
 
 **Real-time and operations:** Socket.IO, WebRTC, Docker, Nginx, Linux, CI/CD.
 
-**Exploration:** Rust/Axum through public projects; Go through private personal work.
+**Personal projects:** Rust/Axum APIs, Go applications, Godot simulations, and native C# utilities.
 
 ## Engineering principles
 
