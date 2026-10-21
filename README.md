@@ -57,12 +57,10 @@
 
 ## Resumes
 
-Two-page resumes tailored to the role, with Turkey or Iran contact details.
+Two-page resumes tailored to the role.
 
-| Role | Turkey | Iran |
-| --- | --- | --- |
-| Senior Backend Engineer | [Download PDF](https://saeedghofrani.xyz/resume-senior-backend-engineer.pdf) | [Download PDF](https://saeedghofrani.xyz/resume-senior-backend-engineer-iran.pdf) |
-| Engineering Manager | [Download PDF](https://saeedghofrani.xyz/resume-engineering-manager.pdf) | [Download PDF](https://saeedghofrani.xyz/resume-engineering-manager-iran.pdf) |
+- [Senior Backend Engineer](https://saeedghofrani.xyz/resume-senior-backend-engineer.pdf)
+- [Engineering Manager](https://saeedghofrani.xyz/resume-engineering-manager.pdf)
 
 ## Selected Public Work
 
