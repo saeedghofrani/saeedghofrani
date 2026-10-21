@@ -55,6 +55,15 @@
 
 ---
 
+## Resumes
+
+Two-page resumes tailored to the role, with Turkey or Iran contact details.
+
+| Role | Turkey | Iran |
+| --- | --- | --- |
+| Senior Backend Engineer | [Download PDF](https://saeedghofrani.xyz/resume-senior-backend-engineer.pdf) | [Download PDF](https://saeedghofrani.xyz/resume-senior-backend-engineer-iran.pdf) |
+| Engineering Manager | [Download PDF](https://saeedghofrani.xyz/resume-engineering-manager.pdf) | [Download PDF](https://saeedghofrani.xyz/resume-engineering-manager-iran.pdf) |
+
 ## Selected Public Work
 
 ### [compare-guard](https://github.com/saeedghofrani/compare-guard)
@@ -91,16 +100,18 @@ The [Portfolio Platform](https://saeedghofrani.xyz/architecture) is also deploye
 
 | Signal | Evidence |
 | --- | --- |
-| **Engineering leadership** | Led a backend team of 8 and coordinated 5+ major releases for a commerce and operator platform. |
-| **Reliability** | Maintained 99.9% uptime for the LicenseMarket production platform. |
-| **Performance** | Reduced average API latency by 40% through caching, bounded data access, and query-path improvements. |
-| **Real-time scale** | Supported 500+ concurrent users with sub-200 ms messaging latency at Mobasher. |
+| **Engineering leadership** | Began managing engineers in early 2024; now lead eight backend engineers at LicenseMarket, with hiring, one-to-ones, performance reviews, mentoring and delivery planning. Coordinated 5+ major releases. |
+| **Reliability** | Maintained 99.9% LicenseMarket platform uptime over approximately six months, tracked with UptimeRobot and CRM incident records. |
+| **Performance** | Reduced average API latency by 40% through caching, indexing and query optimization, validated with database/API timing tests over approximately six months. |
+| **Real-time scale** | Supported 500+ concurrent users in production at Mobasher, with observed messaging latency of 100–150 ms. |
 | **Financial systems** | Built trading, pricing, wallet, transaction, payment, KYC/AML, and verification workflows. |
 | **Enterprise systems** | Delivered process, project, warehouse, finance, messaging, notification, and file workflows. |
 
 Client and employer source code remains private. The portfolio case studies describe the work without exposing confidential implementation details.
 
-Production figures are owner-confirmed results from private work. Measurement periods and client telemetry are not published here; the messaging figure is not a voice/video latency guarantee.
+Production figures are owner-confirmed results from private work. Client telemetry remains private; the messaging figure is not a voice/video latency guarantee.
+
+Ongoing freelance work includes GBT Market and Keyvangold, two separate trading-platform engagements started in 2025.
 
 ## Tools I reach for
 
@@ -132,7 +143,7 @@ Build predictable APIs, make data ownership explicit, keep background work obser
 
 ## Start a conversation
 
-For senior backend and backend lead opportunities, read the [recruiter brief](https://saeedghofrani.xyz/recruiters), download my [resume](https://saeedghofrani.xyz/resume.pdf), or [email me](mailto:sa.ghofraniivari@gmail.com).
+For senior backend, backend lead and engineering manager opportunities, read the [recruiter brief](https://saeedghofrani.xyz/recruiters), choose a [role-specific resume](#resumes), or [email me](mailto:sa.ghofraniivari@gmail.com).
 
 <details>
 <summary>More about the workshop</summary>
