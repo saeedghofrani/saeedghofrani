@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://saeedghofrani.xyz">
+  <a href="https://saeedghofrani.github.io">
     <img src="./banner/profile-hero.svg" width="100%" alt="Saeed Ghofrani Ivari" />
   </a>
 </div>
@@ -9,7 +9,7 @@
 <h3 align="center">Engineering Manager / Senior Backend Engineer</h3>
 
 <p align="center">
-  <a href="https://saeedghofrani.xyz/projects">
+  <a href="https://saeedghofrani.github.io/projects">
     <img src="https://readme-typing-svg.herokuapp.com?font=Handlee&size=28&pause=1500&color=0891B2&center=true&vCenter=true&random=false&width=760&lines=Senior+Backend+Engineer;Engineering+Manager;Open-Source+Builder;Real-Time+Systems;Developer+Tools" alt="Engineering focus" />
   </a>
 </p>
@@ -32,25 +32,25 @@
     <img alt="GitHub" title="GitHub" width="54" src="./databases/icons8-github.svg" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://saeedghofrani.xyz">
+  <a href="https://saeedghofrani.github.io">
     <img alt="Portfolio" title="Portfolio" width="50" src="./social/portfolio-link.svg" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://saeedghofrani.xyz/resume.pdf">
+  <a href="https://saeedghofrani.github.io/resume.pdf">
     <img alt="Resume" title="Resume" width="50" src="./social/resume-link.svg" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://saeedghofrani.xyz"><strong>Portfolio</strong></a>
+  <a href="https://saeedghofrani.github.io"><strong>Portfolio</strong></a>
   &nbsp;|&nbsp;
-  <a href="https://saeedghofrani.xyz/resume.pdf"><strong>Resume</strong></a>
+  <a href="https://saeedghofrani.github.io/resume.pdf"><strong>Resume</strong></a>
   &nbsp;|&nbsp;
-  <a href="https://saeedghofrani.xyz/projects"><strong>Projects</strong></a>
+  <a href="https://saeedghofrani.github.io/projects"><strong>Projects</strong></a>
   &nbsp;|&nbsp;
-  <a href="https://saeedghofrani.xyz/case-studies"><strong>Case Studies</strong></a>
+  <a href="https://saeedghofrani.github.io/case-studies"><strong>Case Studies</strong></a>
   &nbsp;|&nbsp;
-  <a href="https://saeedghofrani.xyz/architecture"><strong>Architecture</strong></a>
+  <a href="https://saeedghofrani.github.io/architecture"><strong>Architecture</strong></a>
 </p>
 
 ---
@@ -59,14 +59,28 @@
 
 Two-page resumes tailored to the role.
 
-- [Senior Backend Engineer](https://saeedghofrani.xyz/resume-senior-backend-engineer.pdf)
-- [Engineering Manager](https://saeedghofrani.xyz/resume-engineering-manager.pdf)
+- [Senior Backend Engineer](https://saeedghofrani.github.io/resume-senior-backend-engineer.pdf)
+- [Engineering Manager](https://saeedghofrani.github.io/resume-engineering-manager.pdf)
 
 ## Personal projects
 
-- **[Mathematical Game Lab](https://saeedghofrani.xyz/projects/mathematical-game-lab)** — three Godot prototypes driven by Bayesian inference, timed routes, and computational geometry. C#, GDScript, and private source.
-- **[Cat Keyboard](https://saeedghofrani.xyz/projects/cat-keyboard)** — a native Windows keyboard guard with manual locking, tray controls, and emergency unlock. C#/.NET; private source.
-- **[Together Meet](https://saeedghofrani.xyz/projects/together-meet)** — two-person WebRTC calls, chat, and device diagnostics. Public web/signaling code; newer Android work remains private and needs real-device ringing verification.
+- **[Mathematical Game Lab](https://saeedghofrani.github.io/projects/mathematical-game-lab)** — three Godot prototypes driven by Bayesian inference, timed routes, and computational geometry. C#, GDScript, and private source.
+- **[Cat Keyboard](https://saeedghofrani.github.io/projects/cat-keyboard)** — a native Windows keyboard guard with manual locking, tray controls, and emergency unlock. C#/.NET; private source.
+- **[Together Meet](https://saeedghofrani.github.io/projects/together-meet)** — two-person WebRTC calls, chat, and device diagnostics. Public web/signaling code; newer Android work remains private and needs real-device ringing verification.
+
+- **[Zyzy](https://saeedghofrani.github.io/projects/zyzy-accounting-storefront)** — a storefront and accounting product, with a closer look at historical order costs and financial reporting. Private personal source.
+- **[Parnia Art Studio](https://saeedghofrani.github.io/projects/parnia-art-studio)** — a Python bitmap-art studio for Persian text, image conversion, and animation. [Public source](https://github.com/saeedghofrani/parnia).
+
+The [project directory](https://saeedghofrani.github.io/projects) also covers Quit Together, Story Platform, network-anomaly experiments, LAN file transfer, and backend tools. Each story distinguishes shipped work, prototypes, and source availability.
+
+## Client and team work
+
+- **[LicenseMarket](https://saeedghofrani.github.io/case-studies/license-market-backend-architecture)** — backend development and leadership of eight engineers; delivery planning, database performance, transaction workflows, and production reliability.
+- **[GBT Market](https://saeedghofrani.github.io/case-studies/gbt-market-trading-payment-systems)** and **[Keyvangold](https://saeedghofrani.github.io/case-studies/keyvangold-gold-trading)** — two separate, ongoing freelance trading-platform engagements. The GBT story also covers its production chart applications.
+- **[Mobasher](https://saeedghofrani.github.io/case-studies/mobasher-realtime-consulting-platform)** — NestJS microservices for consulting, messaging, and voice/video sessions.
+- **[PhysioMaster](https://saeedghofrani.github.io/case-studies/physiomaster-product-delivery)** — shared work across the backend and user/admin applications, alongside team, task, and meeting coordination.
+
+[All case studies](https://saeedghofrani.github.io/case-studies) include Symorgh ERP, Synergy, and collaborative True Dapp work. Client and employer repositories remain private.
 
 ## Public code
 
@@ -94,7 +108,7 @@ Two-person calling, signaling, room state, and chat. [Try the meeting room](http
 
 Typed routes, separate domain logic, structured logging, health endpoints, and HTTP integration tests.
 
-The [Portfolio Platform](https://saeedghofrani.xyz/architecture) is also deployed: its Next.js/NestJS/PostgreSQL source remains private, with public architecture and case studies.
+The [Portfolio Platform](https://saeedghofrani.github.io/architecture) is also deployed: its Next.js/NestJS/PostgreSQL source remains private, with public architecture and case studies.
 
 <p align="center">
   <a href="https://github.com/saeedghofrani?tab=repositories"><strong>Browse the complete public repository archive →</strong></a>
@@ -130,7 +144,7 @@ Ongoing freelance work includes GBT Market and Keyvangold, two separate trading-
 
 **Core:** TypeScript, Node.js, NestJS, PostgreSQL, MongoDB, Redis, RabbitMQ, Prisma, TypeORM.
 
-**Real-time and operations:** Socket.IO, WebRTC, Docker, Nginx, Linux, CI/CD.
+**Real-time and operations:** Socket.IO, WebRTC, Docker, Kubernetes, Grafana, Nginx, Linux, Bash, PowerShell, CI/CD.
 
 **Personal projects:** Rust/Axum APIs, Go applications, Godot simulations, and native C# utilities.
 
@@ -140,14 +154,14 @@ Build predictable APIs, make data ownership explicit, keep background work obser
 
 ## Live Projects
 
-- [**Portfolio Playground**](https://saeedghofrani.xyz/playground): try browser demonstrations; each explains its scope and source availability.
+- [**Portfolio Playground**](https://saeedghofrani.github.io/playground): try browser demonstrations; each explains its scope and source availability.
 - [**WebRTC meeting room**](https://meet.saeedghofrani.xyz): open the same room on two devices. Client and server source are public.
 - [**Quit Together**](https://smoke.saeedghofrani.xyz): a private Go product with a public landing page; an account is required to explore it.
 - [**Story Platform**](https://story.saeedghofrani.xyz): a public reading interface backed by a private personal repository.
 
 ## Start a conversation
 
-For senior backend, backend lead and engineering manager opportunities, read the [recruiter brief](https://saeedghofrani.xyz/recruiters), choose a [role-specific resume](#resumes), or [email me](mailto:sa.ghofraniivari@gmail.com).
+For senior backend, backend lead and engineering manager opportunities, read the [recruiter brief](https://saeedghofrani.github.io/recruiters), choose a [role-specific resume](#resumes), or [email me](mailto:sa.ghofraniivari@gmail.com).
 
 <details>
 <summary>More about the workshop</summary>
