@@ -42,4 +42,13 @@ My [Playground](https://saeedghofrani.github.io/playground) brings together the 
 
 These projects have private source; their walkthroughs explain the implementation and scope. The Playground also includes Parnia, LAN File Drop, a network-anomaly benchmark, and interactive engineering demos. Desktop installers and game builds are not currently published.
 
+Screenshots from the running desktop applications. Open a walkthrough for the full-size capture and implementation details.
+
+| Cat Keyboard · Windows utility | Signal Ghosts · probability and sound |
+| --- | --- |
+| [<img src="assets/projects/cat-keyboard.png" width="300" alt="Cat Keyboard dashboard with lock, unlock and recovery controls">](https://saeedghofrani.github.io/projects/cat-keyboard/#screenshot) | [<img src="assets/projects/signal-ghosts.png" width="300" alt="Signal Ghosts probability heatmap and mathematics panel">](https://saeedghofrani.github.io/projects/signal-ghosts/#screenshot) |
+| **Chrono Loom · routes through time** | **Geometry Predators · polygon ecosystems** |
+| [<img src="assets/projects/chrono-loom.png" width="300" alt="Chrono Loom showing two coordinated routes and five satisfied constraints">](https://saeedghofrani.github.io/projects/chrono-loom/#screenshot) | [<img src="assets/projects/geometry-predators.png" width="300" alt="Geometry Predators territory overlays and organism diagnostics">](https://saeedghofrani.github.io/projects/geometry-predators/#screenshot) |
+
+
 [Browse all projects](https://saeedghofrani.github.io/projects) · [Architecture and data flows](https://saeedghofrani.github.io/architecture) · [Hiring brief](https://saeedghofrani.github.io/recruiters)
