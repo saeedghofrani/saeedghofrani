@@ -33,6 +33,13 @@ Client source remains private. Performance figures are my reported results from 
 
 ## Beyond client work
 
-I also build [mathematical games](https://saeedghofrani.github.io/projects/mathematical-game-lab), a native Windows [Cat Keyboard](https://saeedghofrani.github.io/projects/cat-keyboard), and [Zyzy's storefront and accounting tools](https://saeedghofrani.github.io/projects/zyzy-accounting-storefront). Their walkthroughs show the implementation and current scope; source is private.
+My [Playground](https://saeedghofrani.github.io/playground) brings together the apps, games, and tools I build outside client work:
+
+- **[Quit Together](https://saeedghofrani.github.io/projects/quit-together)** — a Go app for quit-smoking progress and community support, with PostgreSQL and Neo4j.
+- **[Cat Keyboard](https://saeedghofrani.github.io/projects/cat-keyboard)** — a native Windows keyboard guard with manual locking and recovery controls.
+- **[Signal Ghosts](https://saeedghofrani.github.io/projects/signal-ghosts), [Chrono Loom](https://saeedghofrani.github.io/projects/chrono-loom), and [Geometry Predators](https://saeedghofrani.github.io/projects/geometry-predators)** — three offline Godot prototypes built around probability, time, and geometry.
+- **[Story Platform](https://saeedghofrani.github.io/projects/story-platform)** and **[Zyzy](https://saeedghofrani.github.io/projects/zyzy-accounting-storefront)** — a chapter reader/writing studio and a storefront with accounting workflows.
+
+These projects have private source; their walkthroughs explain the implementation and scope. The Playground also includes Parnia, LAN File Drop, a network-anomaly benchmark, and interactive engineering demos. Desktop installers and game builds are not currently published.
 
 [Browse all projects](https://saeedghofrani.github.io/projects) · [Architecture and data flows](https://saeedghofrani.github.io/architecture) · [Hiring brief](https://saeedghofrani.github.io/recruiters)
